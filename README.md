@@ -127,52 +127,8 @@
   pages={2201-2216}
 }
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="@inproceedings{ling-etal-2017-program,
-    title = &quot;Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems&quot;,
-    author = &quot;Ling, Wang  and
-      Yogatama, Dani  and
-      Dyer, Chris  and
-      Blunsom, Phil&quot;,
-    booktitle = &quot;Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)&quot;,
-    month = jul,
-    year = &quot;2017&quot;,
-    address = &quot;Vancouver, Canada&quot;,
-    publisher = &quot;Association for Computational Linguistics&quot;,
-    url = &quot;https://aclanthology.org/P17-1015&quot;,
-    doi = &quot;10.18653/v1/P17-1015&quot;,
-    pages = &quot;158--167&quot;,
-    abstract = &quot;Solving algebraic word problems requires executing a series of arithmetic operations{---}a program{---}to obtain a final answer. However, since programs can be arbitrarily complicated, inducing them directly from question-answer pairs is a formidable challenge. To make this task more feasible, we solve these problems by generating answer rationales, sequences of natural language and human-readable mathematical expressions that derive the final answer through a series of small steps. Although rationales do not explicitly specify programs, they provide a scaffolding for their structure via intermediate milestones. To evaluate our approach, we have created a new 100,000-sample dataset of questions, answers and rationales. Experimental results show that indirect supervision of program learning via answer rationales is a promising strategy for inducing arithmetic programs.&quot;,
-}
+   
 
-@inproceedings{hendrycksmath2021,
-  title={Measuring Mathematical Problem Solving With the MATH Dataset},
-  author={Dan Hendrycks and Collin Burns and Saurav Kadavath and Akul Arora and Steven Basart and Eric Tang and Dawn Song and Jacob Steinhardt},
-  journal={NeurIPS},
-  year={2021}
-}
-
-@inproceedings{Liu2020LogiQAAC,
-  title={LogiQA: A Challenge Dataset for Machine Reading Comprehension with Logical Reasoning},
-  author={Jian Liu and Leyang Cui and Hanmeng Liu and Dandan Huang and Yile Wang and Yue Zhang},
-  booktitle={International Joint Conference on Artificial Intelligence},
-  year={2020}
-}
-
-@inproceedings{zhong2019jec,
-  title={JEC-QA: A Legal-Domain Question Answering Dataset},
-  author={Zhong, Haoxi and Xiao, Chaojun and Tu, Cunchao and Zhang, Tianyang and Liu, Zhiyuan and Sun, Maosong},
-  booktitle={Proceedings of AAAI},
-  year={2020},
-}
-
-@article{Wang2021FromLT,
-  title={From LSAT: The Progress and Challenges of Complex Reasoning},
-  author={Siyuan Wang and Zhongkun Liu and Wanjun Zhong and Ming Zhou and Zhongyu Wei and Zhumin Chen and Nan Duan},
-  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},
-  year={2021},
-  volume={30},
-  pages={2201-2216}
-}" tabindex="0" role="button">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
 </svg>
